@@ -10,7 +10,6 @@
   <ItemGroup>
     <Folder Include="clase\" />
     <Folder Include="interfaces\" />
-    <Folder Include="enums\" />
   </ItemGroup>
 
 </Project>
