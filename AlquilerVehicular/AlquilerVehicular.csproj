@@ -7,9 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="interfaces\" />
-    <Folder Include="enums\" />
-  </ItemGroup>
-
 </Project>
